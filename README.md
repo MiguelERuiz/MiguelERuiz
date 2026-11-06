@@ -17,10 +17,10 @@ collaborating on interesting projects.
 #### Programming Languages
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" title="Ruby" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" title="Ruby" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/erlang/erlang-original.svg" width="40" height="40" alt="Erlang" title="Erlang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="40" height="40" alt="Elixir" title="Elixir" />
   <picture>
@@ -40,9 +40,9 @@ collaborating on interesting projects.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="40" height="40" alt="Rails" title="Rails" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" title="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" width="40" height="40" alt="Phoenix" title="Phoenix" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
@@ -95,16 +95,29 @@ collaborating on interesting projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins" />
 </p>
 
+### 💼 Projects
+
+Here is a list of some Software products I was involved during my career:
+
+| Name        | Years     | Company            | Description                                                                                                                                                                                                      | URL                                                                                                             |
+| ----------- | --------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| OpenNebula  | 2024-2026 | OpenNebula Systems | Open Source Platform for enterprise, hybrid or edge cloud infrastructure                                                                                                                                         | [OpenNebula](https://opennebula.io/)                                                                            |
+| be.Safe PRO | 2023-2024 | Teldat             | Next-generation firewall (NGFW) and SASE security solution embedded directly into Teldat’s networking hardware, designed to secure corporate networks without requiring dedicated standalone security appliances | [be.Safe PRO](https://www.teldat.com/solutions/network-security-saas-cybersecurity/embedded-security-top-ngfw/) |
+| tiivii BeRT | 2021-2023 | Cinfo              | Cinfo tiivii's core infrastructure software that manages external APIs, dynamically allocates hardware resources, and monitors live platform services                                                                                                      | [tivii BeRT](https://tiivii.com/site/en/discover-our-software-catalog/)                                         |
+| GlobalEduca | 2020-2021 | Grupo Edelvives    | Globaleduca is an Edelvives digital platform streamlining school administration, communication, grading, and tracking for teachers, students, and families online or via app.                                    | [GlobalEduca](https://globaleduca.com/)                                                                         |
+| GENESIS     | 2019      | Sopra Steria       | French prison administration's software that centralizes inmate tracking, ensures security, and monitors offender rehabilitation and data.description                                                            | -                                                                                                               |
+|             |           |                    |                                                                                                                                                                                                                  |                                                                                                                 |
+
 ### 🤝 Let's Connect
 
 You can find me on:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/miguel-emilio-ruiz-nieto-1b45a4150/">
+  <a href="https://www.linkedin.com/in/miguel-emilio-ruiz-nieto/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
          width="40" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:miguele.ruizn@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/FFFFFF/secured-letter.png">
