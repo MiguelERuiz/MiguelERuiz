@@ -106,7 +106,7 @@ Here is a list of some Software products I was involved during my career:
 | tiivii BeRT | 2021-2023 | Cinfo              | Cinfo tiivii's core infrastructure software that manages external APIs, dynamically allocates hardware resources, and monitors live platform services                                                                                                      | [tivii BeRT](https://tiivii.com/site/en/discover-our-software-catalog/)                                         |
 | GlobalEduca | 2020-2021 | Grupo Edelvives    | Globaleduca is an Edelvives digital platform streamlining school administration, communication, grading, and tracking for teachers, students, and families online or via app.                                    | [GlobalEduca](https://globaleduca.com/)                                                                         |
 | GENESIS     | 2019      | Sopra Steria       | French prison administration's software that centralizes inmate tracking, ensures security, and monitors offender rehabilitation and data.description                                                            | -                                                                                                               |
-|             |           |                    |                                                                                                                                                                                                                  |                                                                                                                 |
+
 
 ### 🤝 Let's Connect
 
